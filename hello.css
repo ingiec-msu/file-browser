@@ -1,7 +1,15 @@
-<style type="text/css">
-h1 {
-	color: DeepSkyBlue;
+body {
+  font-family: sans-serif;
 }
-</style>
 
-<h1>Hello, world!</h1>
+h1 {
+  color: darkgreen;
+}
+
+h2 {
+  text-decoration: underline;
+}
+
+p {
+  font-style: italic;
+}
